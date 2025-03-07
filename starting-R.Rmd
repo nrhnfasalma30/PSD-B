@@ -1,9 +1,8 @@
 ---
-title: "Introduction to R"
-author: "Riki Herliansyah,"
-date: "21/11/2021"
+title: "PSD M3"
+author: "Salma intan"
+date: "07/03/2025"
 output: github_document
-
 ---
 
 ```{r load-packages, include = FALSE}
